@@ -54,7 +54,7 @@
 ## You will get url
 
 ## Paste and Go
-![Application](https://weather-application-d25b0.web.app/#/)
+[Application](https://weather-application-d25b0.web.app/#/)
 
 ## Ouput
 ![image](https://user-images.githubusercontent.com/88712571/229342663-a2911fd3-4b38-4e61-bf41-3d64cb9393c3.png)
