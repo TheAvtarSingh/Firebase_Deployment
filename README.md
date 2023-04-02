@@ -45,6 +45,9 @@
 
 `flutter build web`
 
+![image](https://user-images.githubusercontent.com/88712571/229368335-49def63c-e960-49e1-b386-fdb62ef7292b.png)
+
+
 ## it will build build/web folder
 
 ## Deploy
